@@ -1,6 +1,6 @@
 # eezy-recruit
 
-== Description ==
+## About
 Eezy Recruit pulls open positions from your recruitment platform and renders them via the shortcode "[recruit]" in a simple beautiful accordion list.
 
 Available APIs:
@@ -11,26 +11,20 @@ Available APIs:
 - Personio
 	Documentation: https://developer.personio.de/docs/retrieving-open-job-positions
 
-== Installation ==
+## Installation
 Activate the plugin and make changes on the Eezy Recruit settings page
 
-== Setup ==
+## Setup
 1. Go to the Eezy Recruit settings page
 
 2. Select a Platform
 
 3. Set the recruitment ID (see documentation & help info)
 
-== Optional ==
+## Optional
 You can override the text of the 3 table headers (Position/Department/Location) and the button text (Apply now).
 
-== Screenshots ==
-
-1. Settings page
-2. Hire example fronten output 
-2. Personio example fronten output 
-
-== Next up ==
+## Next
 If people are interested in that plugin we can:
 
 a) Create a filter for additional APIs
