@@ -1,7 +1,7 @@
 # Eezy Recruit Wordpress Plugin
 
 ## About
-Eezy Recruit pulls open positions from your recruitment platform and renders them via the shortcode "[recruit]" in a simple beautiful accordion list.
+Eezy Recruit pulls open positions from your recruitment platform and renders them via the shortcode in a simple beautiful accordion list.
 
 Available APIs:
 
@@ -10,6 +10,17 @@ Available APIs:
 
 - Personio
 	Documentation: https://developer.personio.de/docs/retrieving-open-job-positions
+
+## Basic usage
+```
+[recruit]
+```
+## Optional
+You only need the simple shortcode if you have set up details on the Settings page, never the less you can also specify things in the shortcoe too:
+```
+[recruit user="myuserid"]
+[recruit user="myuserid" platform="Hire by Google"]
+```
 
 ## Installation
 Activate the plugin and make changes on the Eezy Recruit settings page
