@@ -1,4 +1,4 @@
-# eezy-recruit
+# Eezy Recruit Wordpress Plugin
 
 ## About
 Eezy Recruit pulls open positions from your recruitment platform and renders them via the shortcode "[recruit]" in a simple beautiful accordion list.
