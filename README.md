@@ -5,11 +5,8 @@ Eezy Recruit pulls open positions from your recruitment platform and renders the
 
 Available APIs:
 
-- Hire by Google
-	Documentation: https://support.google.com/hire/answer/7343009?hl=en
-
-- Personio
-	Documentation: https://developer.personio.de/docs/retrieving-open-job-positions
+- Hire by Google: https://support.google.com/hire/answer/7343009?hl=en
+- Personio: https://developer.personio.de/docs/retrieving-open-job-positions
 
 ## Basic usage
 ```
